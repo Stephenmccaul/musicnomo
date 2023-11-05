@@ -414,7 +414,7 @@ function musicalNomograph(standard_values: boolean) {
   svg.text(
     {
       x: pw / 2,
-      y: ph - 96 / 4,
+      y: ph - 96 / 3,
       "text-anchor": "middle",
       "font-family": "helvetica",
       "font-size": 15,
@@ -427,7 +427,7 @@ function musicalNomograph(standard_values: boolean) {
   svg.text(
     {
       x: pw / 2,
-      y: ph - 96 / 8,
+      y: ph - 96 / 4,
       "text-anchor": "middle",
       "font-family": "helvetica",
       "font-size": 10,
